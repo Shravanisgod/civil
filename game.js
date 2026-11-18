@@ -42,12 +42,12 @@
         </section>
 
         <section class="card">
-          <h2>How to Play</h2>
-          <p>1. Walk around using WASD.</p>
-          <p>2. Select empty grass.</p>
-          <p>3. Prepare the field.</p>
-          <p>4. Plant and water wheat.</p>
-          <p>5. Advance days to grow crops.</p>
+          <h2>How to Play Nigger</h2>
+          <p>1. Walk around using WASD nigger.</p>
+          <p>2. Select empty grass nigger.</p>
+          <p>3. Prepare the field nigger.</p>
+          <p>4. Plant and water wheat nigger.</p>
+          <p>5. Advance days to grow crops nigger.</p>
           <p>6. Harvest wheat for food and seeds.</p>
           <p>7. Collect wood and stone.</p>
         </section>
